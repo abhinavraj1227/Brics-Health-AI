@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+healthresilience.db
+
+# Node / Next.js
+node_modules/
+.next/
+package-lock.json
+
+# Environment variables
+.env
